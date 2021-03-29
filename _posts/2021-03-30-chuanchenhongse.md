@@ -1,4 +1,15 @@
-# 传承红色基因，青年一代更要学好“党史”
+---
+layout: post
+title: 传承红色基因，青年一代更要学好“党史”
+date: 2021-03-30
+Author: qpwhly 
+tags: [网评]
+comments: true
+toc: true
+---
+
+
+
 
  
 
